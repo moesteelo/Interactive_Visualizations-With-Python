@@ -14,7 +14,7 @@
  ## Displaying Pokèman Sales
 <img src="img/Pokèman sales_2.png">
 
-<img src="img/Pokêman Sales.png">
+<img src="img
 
 ## Scatter Plots 
 <img src="img/Scatter Plot.png">
